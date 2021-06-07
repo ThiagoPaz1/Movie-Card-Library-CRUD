@@ -6,8 +6,7 @@
   podem ter suas informações editadas
   e também pode-se adicionar novos filmes.
 </p>
-<img width="400px" src="Captura de tela de 2021-06-07 12-01-12.png
-"/>
+<img src="Captura de tela de 2021-06-07 12-01-12.png"/>
 <h3>Tecnologias utilizadas:</h3>
 <ul>
   <li>
@@ -36,5 +35,4 @@
   </li>
 </ul>
 <h3>Link para o projeto:</h3>
-https://sshoppingcartt.netlify.app/
-
+https://movielibrarycard.netlify.app/
