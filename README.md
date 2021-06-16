@@ -4,7 +4,8 @@
   Página web que contém uma
   lista de filme, onde os mesmos
   podem ter suas informações editadas
-  e também pode-se adicionar novos filmes.
+  e também pode-se adicionar novos filmes, e
+  deletar filmes.
 </p>
 <img src="Captura de tela de 2021-06-07 12-01-12.png"/>
 <h3>Tecnologias utilizadas:</h3>
